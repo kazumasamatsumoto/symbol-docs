@@ -197,10 +197,6 @@ In this site, you will find descriptions for every new :doc:`feature <../../conc
 
 We invite you to connect with our developer community by joining the |slack|.
 
-.. |symbol-bootstrap| raw:: html
-
-   <a href="https://github.com/nemtech/symbol-bootstrap" target="_blank">symbol-bootstrap</a>
-
 .. |ts-js-sdk| raw:: html
 
    <a href="https://github.com/nemtech/symbol-sdk-typescript-javascript" target="_blank">TS/JS SDK</a>

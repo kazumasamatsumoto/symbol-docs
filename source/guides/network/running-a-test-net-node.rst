@@ -203,7 +203,3 @@ And don't forget to check :ref:`the rest of the guides <blog-categories>` to con
 .. |faucet| raw:: html
 
    <a href="http://faucet.testnet.symboldev.network/" target="_blank">faucet</a>
-
-.. |symbol-bootstrap| raw:: html
-
-   <a href="https://github.com/nemtech/symbol-bootstrap" target="_blank">Symbol Bootstrap</a>
